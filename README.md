@@ -3,6 +3,8 @@
 
 **Тестовая документация**
 
+[Отчет о тестировании](https://github.com/evgigna/Personal_events_SkyEng_web_API/blob/main/Test_report.pdf)
+
 [Приемочные тест-кейсы](https://github.com/evgigna/Personal_events_SkyEng_web_API/blob/main/Acceptance_tests.pdf)
 
 [Декомпозиция](https://github.com/evgigna/Personal_events_SkyEng_web_API/blob/main/Decomposition.pdf)
